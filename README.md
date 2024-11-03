@@ -55,7 +55,7 @@ The architecture focuses on user engagement and performance, with modular compon
  4. **Hosting**
   - The pulse website is hosted by the WordPress VIP infrastructure. WordPress VIP is built on a global infrastructure deployed in data centres around the world. From origin to edge, the components work seamlessly to deliver high performance.
 
-    <img src="https://raw.githubusercontent.com/TrishKedi/professional-projects/refs/heads/main/wordpressvip-architecture.webp"/>
+    <img src="https://raw.githubusercontent.com/TrishKedi/professional-projects/refs/heads/main/assets/architectural-diagrams/wordpressvip-architecture.webp""/>
 
 ---
 
